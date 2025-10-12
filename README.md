@@ -1,2 +1,2 @@
 # Atari-RL
-Simulando jogos do ataru usando Deep-Q-Learning
+Simulando jogos do atari usando Deep-Q-Learning
