@@ -10,8 +10,6 @@
 *.log.*
 *.sig
 
-runs/
-videos/
 wandb/
 pkg/
 venv/
